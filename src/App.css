@@ -1,0 +1,15 @@
+.input-field {
+    border: 1px solid yellowgreen;
+    font-size: 25px;
+    margin-right: 10px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.list-container {
+    margin-left: -40px;
+}
+
+.delete-btn {
+    margin-left: 50px;
+}
